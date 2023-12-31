@@ -46,7 +46,7 @@
 
 <div style="display: flex; justify-content: space-between;">
   <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=T-Prabakaran&hide_title=false&hide_rank=false&show_icons=true&card_width=250&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=T-Prabakaran&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&card_width=250" height="200" alt="stats graph" />
   </div>
   <div align="right">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=T-Prabakaran&locale=en&hide_title=false&layout=compact&card_width=250&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph" />
@@ -56,7 +56,7 @@
 
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=T-Prabakaran&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3&card_width=400" height="200" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=T-Prabakaran&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3&card_width=420" height="200" alt="streak graph" />
 </div>
 
 
